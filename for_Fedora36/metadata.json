@@ -1,0 +1,8 @@
+{
+  "name": "Fan speed",
+  "description": "Show current speed of cpu fan",
+  "uuid": "unicoder_admin@163.com",
+  "shell-version": [
+    "42"
+  ]
+}

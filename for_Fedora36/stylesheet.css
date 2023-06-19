@@ -1,0 +1,8 @@
+/* Add your custom extension styling here */
+.cpu-dots{
+  /*font-size: 15px;*/
+  font-weight: bold;
+  color: #ffffff;
+  background-color: rgba(0,50,50,0.5);
+  /*border-radius: 10px;*/
+}
